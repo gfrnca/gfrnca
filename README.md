@@ -4,7 +4,7 @@ Currently working as Front-end Developer at [@intrabank](https://www.intrabank.c
 [![Gabriel França](https://img.shields.io/badge/Gabriel_França-242424?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gfrnca/)
 [![gabrielbfranca27@gmail.com](https://img.shields.io/badge/gabrielbfranca27%40gmail.com-242424?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielbfranca27@gmail.com)
 
-I'm an 20-year-old front-end developer located in São Paulo, Brazil. My passion lies in crafting user interfaces and bringing creative concepts to life.
+I'm an 21-year-old front-end developer located in São Paulo, Brazil. My passion lies in crafting user interfaces and bringing creative concepts to life.
 ### Focused on:
 
 ![React](https://img.shields.io/badge/React-fff?logo=react&logoColor=242424)
