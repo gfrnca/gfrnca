@@ -1,5 +1,5 @@
 # Gabriel França ``gfrnca``
-Currently working as Front-end Developer at [@intrabank](https://www.intrabank.com.br)
+Currently working as Front-end Developer at [@m8partners](https://m8partners.com.br/)
 
 [![Gabriel França](https://img.shields.io/badge/Gabriel_França-242424?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gfrnca/)
 [![gabrielbfranca27@gmail.com](https://img.shields.io/badge/gabrielbfranca27%40gmail.com-242424?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielbfranca27@gmail.com)
